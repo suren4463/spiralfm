@@ -1,0 +1,33 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.spiralfm"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "spiralfm",
+        "packageName": "com.spiralfm",
+        "packageFolder": "com/spiralfm",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NDIyZjc1NzNhMDQyYWM3NjBjODRmYTIxZmYzNDE3YTRlYTljMmM2ODU1NzYxMzgwZmUzZDY4MjkxMzA5MWQ2NTRjMmVlM2UyZWQ1Y2VkNTQ3MmM0YzQxMGNkMzU2ZmE2NWY4MTE1NTRkOTllNDliYjU5MDY2NGU4ZjEwMGNkOTY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
